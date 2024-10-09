@@ -1,0 +1,14 @@
+{
+  "name": "app-hello-world",
+  "version": "0.0.2",
+  "description": "Primeiro app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "will",
+  "license": "ISC",
+  "dependencies": {
+    "easy-cpf": "^1.2.0"
+  }
+}
